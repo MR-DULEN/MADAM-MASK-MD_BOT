@@ -1,5 +1,5 @@
 {
-               "name": "Madam_Mask",
+               "name": "Madam-mask-md",
                "version": "0.0.2",
                "description": "Multi device whatsapp bot ",
                "main": "lib/client.js",
