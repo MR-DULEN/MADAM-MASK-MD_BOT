@@ -1,36 +1,25 @@
 ###### MADAM-MASK-MD
-
-<p align="left">
-  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=MADAM+MASK+MD+BOT;+BY+MADAM+MASK+TEAM...%F0%9F%91%8B" height="50px"
-</p>
     
-<div align='center'>
-<a href="https://github.com/MADAM-MASK-OFFICIAL"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="250" height="25">
-</div>
 
 <div align='center'>
 <a href="https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD_BOT"><img src="https://i.ibb.co/PFdnLRq/replicate-prediction-b4ajl4bbgqg534z3xurddwigvu.png" width="250" height="250">
 </div>
-
-<div align='center'>
-<a href="(https://github.com/MADAM-MASK-OFFICIAL)"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="250" height="25">
-</div>
   
 <div align='center'>
-<table><tr><th><b> • ⱮⱭƊⱭⱮ ⱮⱭՏƘ ⱮƊ • </b></th><a href="https://github.com/MADAM-MASK-OFFICIAL"></a></td><a href="https://github.com/MADAM-MASK-OFFICIAL"></a></table>
+<table><tr><th><b> • MADAM MASK MD • </b></th><a href="https://github.com/MADAM-MASK-OFFICIAL"></a></td><a href="https://github.com/MADAM-MASK-OFFICIAL"></a></table>
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MADAM-MASK-OFFICIAL&style=flat-square">
 </div>
 
-><h1>𝙱𝙾𝚃 𝙸𝚂 𝙼𝙰𝙳𝙸𝙽𝙶<h1>
 
-<div align="center">
-<a href="https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD_BOT"><img src="https://i.ibb.co/mNxf5vM/hzk6C.gif" alt="hzk6C" border="0"></a>
-</div>
+<h1>🔥 ᴳᴱᵀ ᴮᴼᵀ'ˢ ᴺᴱᵂ ⱽᴱᴿˢᴵᴼᴺ 🔥</h1>
 
- ><h2>S𝑶𝑪𝑰𝑨𝑳 𝑴𝑬𝑫𝑰𝑨</h2>
+LINK :- https://github.com/MADAM-MASK-OFFICIAL/MADAM-MASK-MD-V2
+
+<br></br>
+ <h7>S𝑶𝑪𝑰𝑨𝑳 𝑴𝑬𝑫𝑰𝑨</h7>
 
 <a href="https://wa.me//+94725058591"><img src="https://img.shields.io/badge/WHATSAPP-03C75A?style=for-the-badge&logo=WHATSAPP&logoColor=FFFFFF"></a>
 <a href="https://t.me/d_sathsara"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
